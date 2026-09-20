@@ -2,6 +2,9 @@
 
 Assignment 1 for Design and Analysis of Algorithms.
 
+# GitHub link
+https://github.com/bekzatdemeuov00-source/DAA-Assignment1.git
+
 ## Algorithms
 
 - MergeSort
